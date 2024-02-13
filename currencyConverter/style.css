@@ -85,3 +85,22 @@ form button {
   font-size: 1.15rem;
   cursor: pointer;
 }
+
+.hire-me {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px;
+}
+
+.hire-me a {
+  text-decoration: none;
+}
+
+.hire-me h4 {
+  color: #7d59ff;
+}
+
+.hire-me h4 :hover {
+  color: #5e2bff;
+}
